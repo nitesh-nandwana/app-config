@@ -4,7 +4,7 @@ security:
     
 management:
   security:
-    enabled: true# turn off securing the actuator endpoints
+    enabled: false# turn off securing the actuator endpoints
     
 logging: # <----New sections below
   level:
