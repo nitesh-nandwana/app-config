@@ -1,6 +1,6 @@
 security:
   basic:
-    enabled: false
+    enabled: true
       #turn off securing our application endpoints
     
 management:
