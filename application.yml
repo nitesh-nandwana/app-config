@@ -11,5 +11,5 @@ logging:
     io:
       pivotal: DEBUG
       
-greeting:
-  displayFortune: true
+#greeting:
+ # displayFortune: true
